@@ -1,0 +1,52 @@
+File,Condition,Model,Reference,Hypothesis,Locality,Entity_Match,WER,CER,Latency_sec
+audio in fan noise 1.aac,Fan Noise,Deepgram-nova-2,Sarjapur Road pe company cab late aayi thi.,Road पे company cab late आई थी.,Sarjapur Road,False,0.5,0.4286,2.03
+audio in fan noise 1.aac,Fan Noise,Whisper-large-v3,Sarjapur Road pe company cab late aayi thi.,सरजपूर रोड पे कंपनी कैप लेट आई थी,Sarjapur Road,True,1.0,0.8333,3.02
+audio in fan noise 1.aac,Fan Noise,Groq-whisper-large-v3-turbo,Sarjapur Road pe company cab late aayi thi.,सर्चापूर रोड पे कंपनी कैप लेट आई थी,Sarjapur Road,False,1.0,0.8333,1.17
+audio in fan noise 2.aac,Fan Noise,Deepgram-nova-2,Bommanahalli mein mera training center hai,Common हल्दी में मेरा training center है.,Bommanahalli,False,0.8333,0.4524,0.38
+audio in fan noise 2.aac,Fan Noise,Whisper-large-v3,Bommanahalli mein mera training center hai,ಬೋಮನ್ ಹಳ್ಳಿಮೆ ಮೇರ ಟ್ರೆಂಗಿಂ ಸೇಟ್ಟರೆ,Bommanahalli,False,1.0,0.9048,2.04
+audio in fan noise 2.aac,Fan Noise,Groq-whisper-large-v3-turbo,Bommanahalli mein mera training center hai,वोमन हल्ली में मेरा ट्रेंगिंग सेंटर है,Bommanahalli,True,1.1667,0.881,0.27
+audio in fan noise 3.aac,Fan Noise,Deepgram-nova-2,Banashankari mein mujhe ek accha hostel mila,,Banashankari,False,1.0,1.0,0.48
+audio in fan noise 3.aac,Fan Noise,Whisper-large-v3,Banashankari mein mujhe ek accha hostel mila,ایک اچھا ہاؤسٹل ملے,Banashankari,False,1.0,0.9318,1.25
+audio in fan noise 3.aac,Fan Noise,Groq-whisper-large-v3-turbo,Banashankari mein mujhe ek accha hostel mila,बने शंकरीम बने से एक अच्छा वॉस्टल में लगा,Banashankari,False,1.2857,0.8636,0.27
+audio in fan noise 4.aac,Fan Noise,Deepgram-nova-2,Main HSR Layout mein food delivery ka kaam karta hoon,Main HSR layout mein food delivery ka kaam karta hu.,HSR Layout,True,0.1,0.0566,0.45
+audio in fan noise 4.aac,Fan Noise,Whisper-large-v3,Main HSR Layout mein food delivery ka kaam karta hoon,मैं HSR Layout में Food Delivery का काम करता हूँ,HSR Layout,True,0.6,0.434,1.49
+audio in fan noise 4.aac,Fan Noise,Groq-whisper-large-v3-turbo,Main HSR Layout mein food delivery ka kaam karta hoon,मैं HSR लियाउट में food delivery का काम करता हूँ,HSR Layout,True,0.7,0.5472,0.27
+audio in noise 1.aac,Background Noise,Deepgram-nova-2,Mere dost ka ghar Jayanagar mein hai,मेरा दोस्त जया नगर में रहता है.,Jayanagar,True,1.0,0.8333,0.69
+audio in noise 1.aac,Background Noise,Whisper-large-v3,Mere dost ka ghar Jayanagar mein hai,मेरा दोस जया नगर में रहता है,Jayanagar,True,1.0,0.8333,1.5
+audio in noise 1.aac,Background Noise,Groq-whisper-large-v3-turbo,Mere dost ka ghar Jayanagar mein hai,मेरा दोस्ट जया नगर में रहता है,Jayanagar,True,1.0,0.8333,0.25
+audio in noise 2.aac,Background Noise,Deepgram-nova-2,Kal Whitefield se aate waqt bahut traffic tha,कल white field से आते वक्त बहुत traffic था.,Whitefield,True,1.0,0.4889,0.36
+audio in noise 2.aac,Background Noise,Whisper-large-v3,Kal Whitefield se aate waqt bahut traffic tha,कल वाइट फील्स से आते वक्त बहुत ट्रैफिक था,Whitefield,False,1.125,0.8444,1.82
+audio in noise 2.aac,Background Noise,Groq-whisper-large-v3-turbo,Kal Whitefield se aate waqt bahut traffic tha,कल वाइट फील्ड से आते वक्त बहुत ट्रैफिक था,Whitefield,False,1.125,0.8444,0.27
+audio in public 1.aac,Public noise,Deepgram-nova-2,"Haan bhai, main Koramangala mein PG dekh raha hoon",आवाज़ नहीं गोरा मंगलम में PG देख रहा हूं.,Koramangala,True,0.8889,0.7959,0.63
+audio in public 1.aac,Public noise,Whisper-large-v3,"Haan bhai, main Koramangala mein PG dekh raha hoon",कि आवाइन गोरा मंगलम में पीजी देख रहा हूं  कि आवाइन गोरा मंगलम में पीजी देख रहा हूं,Koramangala,True,2.0,1.0,2.72
+audio in public 1.aac,Public noise,Groq-whisper-large-v3-turbo,"Haan bhai, main Koramangala mein PG dekh raha hoon",ہاں بھائی میں کورا مملم میں پی جی دیکھ رہا ہوں,Koramangala,False,1.2222,0.8776,0.27
+audion in public 2.aac,Public noise,Deepgram-nova-2,Mera office Indiranagar ke paas shift ho gaya hai,मेरा office इंदिरा नगर के पास shift हो गया है.,Indiranagar,True,0.8889,0.6122,0.63
+audion in public 2.aac,Public noise,Whisper-large-v3,Mera office Indiranagar ke paas shift ho gaya hai,मेरा ओफिस इंद्रानागर के पास शिफ्ट हो गया है,Indiranagar,True,1.0,0.8367,1.87
+audion in public 2.aac,Public noise,Groq-whisper-large-v3-turbo,Mera office Indiranagar ke paas shift ho gaya hai,मेरा ओफिस इंदरानागर के पास शिफ्ट हो गया है।,Indiranagar,True,1.0,0.8367,0.27
+audio in quiet room 1.aac,Quiet Room,Deepgram-nova-2,Rajajinagar se Majestic tak metro li thi maine,राजा जी नगर से megastic तक metro ली थी मैंने.,Rajajinagar,True,1.125,0.6304,0.89
+audio in quiet room 1.aac,Quiet Room,Whisper-large-v3,Rajajinagar se Majestic tak metro li thi maine,राजाजी नगर से मैजेस्टिक तक मेट्रो ली थी मैंने,Rajajinagar,True,1.125,0.8478,1.9
+audio in quiet room 1.aac,Quiet Room,Groq-whisper-large-v3-turbo,Rajajinagar se Majestic tak metro li thi maine,राजाजी नगर से मैजेस्टिक तक मेट्रो ली थी मैंने,Rajajinagar,True,1.125,0.8478,0.27
+audio in quiet room 2.aac,Quiet Room,Deepgram-nova-2,Main Electronic City mein night shift karta hoon,मैं electronic city में night shift करता हूं.,Electronic City,True,0.5,0.3542,0.64
+audio in quiet room 2.aac,Quiet Room,Whisper-large-v3,Main Electronic City mein night shift karta hoon,मैं एलेक्ट्रोनिक सिटी में नाइट शेप्ट करता हूँ,Electronic City,False,1.0,0.8542,1.93
+audio in quiet room 2.aac,Quiet Room,Groq-whisper-large-v3-turbo,Main Electronic City mein night shift karta hoon,मैं इलेक्ट्रोनिक सिटी में नाइट शेफ्ट करता हूँ,Electronic City,False,1.0,0.8542,0.28
+audio in quiet room 3.aac,Quiet Room,Deepgram-nova-2,Yelahanka side mein room rent thoda kam hai,यह रंग का side में room rent थोड़ा कम है.,Yelahanka,False,0.875,0.5581,0.65
+audio in quiet room 3.aac,Quiet Room,Whisper-large-v3,Yelahanka side mein room rent thoda kam hai,ये लाहंका साइड में रूम रेंट थोड़ा कम है,Yelahanka,False,1.125,0.8372,1.8
+audio in quiet room 3.aac,Quiet Room,Groq-whisper-large-v3-turbo,Yelahanka side mein room rent thoda kam hai,यलांका साइड में रूम रेंट थोड़ा कम है,Yelahanka,False,1.0,0.8372,0.26
+audio in quiet room 4.aac,Quiet Room,Deepgram-nova-2,Marathahalli signal pe roz jam lagta hai yaar,,Marathahalli,False,1.0,1.0,0.79
+audio in quiet room 4.aac,Quiet Room,Whisper-large-v3,Marathahalli signal pe roz jam lagta hai yaar,मराटा अल्ली सिग्नल पे रोज जम लगता है यार,Marathahalli,True,1.125,0.8444,1.77
+audio in quiet room 4.aac,Quiet Room,Groq-whisper-large-v3-turbo,Marathahalli signal pe roz jam lagta hai yaar,मराटा हुली सिगनल पे रोज जम लगता है यार,Marathahalli,False,1.125,0.8444,0.27
+audio in traffic 1.aac,Traffic Noise,Deepgram-nova-2,Silk Board cross karne mein aadha ghanta lag gaya,Silk board cross करने में आधा घंटा लग गया.,Silk Board,True,0.6667,0.551,0.65
+audio in traffic 1.aac,Traffic Noise,Whisper-large-v3,Silk Board cross karne mein aadha ghanta lag gaya,Silk boat cross करने में आदा घंटा लग गया,Silk Board,True,0.7778,0.5918,2.12
+audio in traffic 1.aac,Traffic Noise,Groq-whisper-large-v3-turbo,Silk Board cross karne mein aadha ghanta lag gaya,इस सिल्क बोट प्रॉस करने में आदा घंटा लग गया,Silk Board,True,1.1111,0.8367,0.52
+audio in traffic 2.aac,Traffic Noise,Deepgram-nova-2,Hebbal flyover ke paas interview dene jaana hai,Cable flyover के पास interview देने जाना है.,Hebbal,False,0.75,0.4894,0.59
+audio in traffic 2.aac,Traffic Noise,Whisper-large-v3,Hebbal flyover ke paas interview dene jaana hai,हेबल फ्लाइव ओवर के पास इंटरव्यू देने जाना है,Hebbal,True,1.125,0.8723,1.9
+audio in traffic 2.aac,Traffic Noise,Groq-whisper-large-v3-turbo,Hebbal flyover ke paas interview dene jaana hai,कि एबल फ्लाइब ओवर के पास इंटर्व्यू देने जाना है,Hebbal,False,1.25,0.8723,0.28
+audio in traffic 3.aac,Traffic Noise,Deepgram-nova-2,KR Puram station ke paas utarna hai mujhe,KRपुरम station के पास उतरना है मुझे.,KR Puram,True,0.875,0.6341,0.38
+audio in traffic 3.aac,Traffic Noise,Whisper-large-v3,KR Puram station ke paas utarna hai mujhe,کہ یار پورا میں سٹیشن کے پاس اتنا ہے مجھے,KR Puram,False,1.25,0.9512,1.42
+audio in traffic 3.aac,Traffic Noise,Groq-whisper-large-v3-turbo,KR Puram station ke paas utarna hai mujhe,this is my tot 해요,KR Puram,False,1.0,0.8293,0.36
+audio in traffic 4.aac,Traffic Noise,Deepgram-nova-2,Yeshwanthpur se bus pakad ke aaya hoon,यशवंत floor से bus पकड़ के आया हूं.,Yeshwanthpur,False,1.0,0.7368,0.54
+audio in traffic 4.aac,Traffic Noise,Whisper-large-v3,Yeshwanthpur se bus pakad ke aaya hoon,یشمن پورس سے بس مکڑ کے آیا ہوں,Yeshwanthpur,False,1.1429,0.8421,1.34
+audio in traffic 4.aac,Traffic Noise,Groq-whisper-large-v3-turbo,Yeshwanthpur se bus pakad ke aaya hoon,which I have quite a bitaden,Yeshwanthpur,False,1.0,0.7895,0.33
+audio in traffic 5.aac,Traffic Noise,Deepgram-nova-2,BTM Layout ke paas naya office open hua hai,PTM layout के पास नया office खुला हैं.,BTM Layout,True,0.7778,0.5116,0.61
+audio in traffic 5.aac,Traffic Noise,Whisper-large-v3,BTM Layout ke paas naya office open hua hai,BTM Layout के पास नया ओफिस खुला है,BTM Layout,True,0.7778,0.6279,1.49
+audio in traffic 5.aac,Traffic Noise,Groq-whisper-large-v3-turbo,BTM Layout ke paas naya office open hua hai,BTM लेयाउट के पास नया ओफिस खुला है,BTM Layout,True,0.8889,0.7674,0.27

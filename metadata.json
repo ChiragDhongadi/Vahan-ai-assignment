@@ -1,0 +1,102 @@
+{
+  "audio in fan noise 1.aac": {
+    "transcript": "Sarjapur Road pe company cab late aayi thi.",
+    "locality": "Sarjapur Road",
+    "condition": "Fan Noise"
+  },
+  "audio in fan noise 2.aac": {
+    "transcript": "Bommanahalli mein mera training center hai",
+    "locality": "Bommanahalli",
+    "condition": "Fan Noise"
+  },
+  "audio in fan noise 3.aac": {
+    "transcript": "Banashankari mein mujhe ek accha hostel mila",
+    "locality": "Banashankari",
+    "condition": "Fan Noise"
+  },
+  "audio in fan noise 4.aac": {
+    "transcript": "Main HSR Layout mein food delivery ka kaam karta hoon",
+    "locality": "HSR Layout",
+    "condition": "Fan Noise"
+  },
+  "audio in noise 1.aac": {
+    "transcript": "Mere dost ka ghar Jayanagar mein hai",
+    "locality": "Jayanagar",
+    "condition": "Background Noise"
+  },
+  "audio in noise 2.aac": {
+    "transcript": "Kal Whitefield se aate waqt bahut traffic tha",
+    "locality": "Whitefield",
+    "condition": "Background Noise"
+  },
+  "audio in public 1.aac": {
+    "transcript": "Haan bhai, main Koramangala mein PG dekh raha hoon",
+    "locality": "Koramangala",
+    "condition": "Public noise"
+  },
+  "audion in public 2.aac": {
+    "transcript": "Mera office Indiranagar ke paas shift ho gaya hai",
+    "locality": "Indiranagar",
+    "condition": "Public noise"
+  },
+  "audio in quiet room 1.aac": {
+    "transcript": "Rajajinagar se Majestic tak metro li thi maine",
+    "locality": "Rajajinagar",
+    "condition": "Quiet Room"
+  },
+  "audio in quiet room 2.aac": {
+    "transcript": "Main Electronic City mein night shift karta hoon",
+    "locality": "Electronic City",
+    "condition": "Quiet Room"
+  },
+  "audio in quiet room 3.aac": {
+    "transcript": "Yelahanka side mein room rent thoda kam hai",
+    "locality": "Yelahanka",
+    "condition": "Quiet Room"
+  },
+  "audio in quiet room 4.aac": {
+    "transcript": "Marathahalli signal pe roz jam lagta hai yaar",
+    "locality": "Marathahalli",
+    "condition": "Quiet Room"
+  },
+  "audio in traffic 1.aac": {
+    "transcript": "Silk Board cross karne mein aadha ghanta lag gaya",
+    "locality": "Silk Board",
+    "condition": "Traffic Noise"
+  },
+  "audio in traffic 2.aac": {
+    "transcript": "Hebbal flyover ke paas interview dene jaana hai",
+    "locality": "Hebbal",
+    "condition": "Traffic Noise"
+  },
+  "audio in traffic 3.aac": {
+    "transcript": "KR Puram station ke paas utarna hai mujhe",
+    "locality": "KR Puram",
+    "condition": "Traffic Noise"
+  },
+  "audio in traffic 4.aac": {
+    "transcript": "Yeshwanthpur se bus pakad ke aaya hoon",
+    "locality": "Yeshwanthpur",
+    "condition": "Traffic Noise"
+  },
+  "audio in traffic 5.aac": {
+    "transcript": "BTM Layout ke paas naya office open hua hai",
+    "locality": "BTM Layout",
+    "condition": "Traffic Noise"
+  },
+  "audio phone call 1.aac": {
+    "transcript": "Bellandur lake ke side wala road phir block tha",
+    "locality": "Bellandur Lake",
+    "condition": "Phone call"
+  },
+  "audio phone call 2.aac": {
+    "transcript": "Peenya industrial area mein kaafi factories hain",
+    "locality": "Peenya",
+    "condition": "Phone call"
+  },
+  "audio phone call 3.aac": {
+    "transcript": "Thanisandra side mein naye apartments ban rahe hain",
+    "locality": "Thanisandra",
+    "condition": "Phone call"
+  }
+}

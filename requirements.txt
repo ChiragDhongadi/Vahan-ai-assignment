@@ -1,0 +1,17 @@
+deepgram-sdk>=3.0.0
+faster-whisper
+static-ffmpeg
+groq
+jiwer
+pandas
+tqdm
+python-dotenv
+tabulate
+editdistance
+requests
+rapidfuzz
+nvidia-cublas-cu12
+nvidia-cudnn-cu12
+indic-transliteration
+matplotlib
+seaborn
